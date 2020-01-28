@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTransferTest", "FileTransferTest\FileTransferTest.csproj", "{8A5689B3-7A68-4040-9016-C61651F5D476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A5689B3-7A68-4040-9016-C61651F5D476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5689B3-7A68-4040-9016-C61651F5D476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5689B3-7A68-4040-9016-C61651F5D476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5689B3-7A68-4040-9016-C61651F5D476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95EDB1D8-F17E-44CE-B061-9F0B7AD2AAC5}
+	EndGlobalSection
+EndGlobal
